@@ -1,0 +1,28 @@
+{
+  "name": "esp-fft",
+  "keywords": "esp32",
+  "description": "ESP32 FFT library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brian/esphome-core.git"
+  },
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "SomeOneElse",
+      "email": "contact@whoknows.com",
+      "url": "https://whocares.com",
+      "maintainer": true
+    }
+  ],
+  "dependencies": {   },
+  "build": {
+    
+  },
+  "license": "GPL-3.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif32",
+    "espressif8266"
+  ]
+}
